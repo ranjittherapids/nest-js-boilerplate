@@ -1,6 +1,3 @@
-Creating an attractive README file for a Nest.js boilerplate involves providing clear and concise information about the boilerplate, its features, how to set it up, and how to use it. Below is a template for an attractive README file:
-
----
 
 # Nest.js Boilerplate
 
